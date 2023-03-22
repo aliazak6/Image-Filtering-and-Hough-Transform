@@ -1,0 +1,7 @@
+data
+results
+python/playground.ipynb
+python/__pycache__/
+python/.ipynb_checkpoints/
+.ipynb_checkpoints/
+ec/myHoughLineSegments.py
